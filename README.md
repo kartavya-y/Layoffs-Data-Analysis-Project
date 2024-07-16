@@ -56,20 +56,7 @@ A positive correlation was found between the funds raised and the total number o
 ## Visualizations
 
 The following visualizations were created to illustrate the insights:
-
-1. **Missing Values by Column** - Bar Chart
-2. **Duplicate Rows in the Dataset** - Table
-3. **Layoffs Over Time** - Line Chart
-4. **Total Layoffs by Industry** - Bar Chart
-5. **Average Percentage of Layoffs by Industry** - Bar Chart
-6. **Total Layoffs by Country** - Map Chart
-7. **Total Layoffs by Location (City)** - Bar Chart
-8. **Total Layoffs by Company Stage** - Bar Chart
-9. **Funds Raised vs. Total Layoffs by Company Stage** - Scatter Plot
-10. **Top 10 Companies by Total Layoffs** - Bar Chart
-11. **Percentage of Employees Laid Off by Top 10 Companies** - Bar Chart
-12. **Correlation between Funds Raised and Total Layoffs** - Scatter Plot with Trend Line
-13. **Correlation between Percentage Laid Off and Total Layoffs** - Scatter Plot with Trend Line
+![Viz](https://github.com/kartavya-y/Layoffs-Dataset-Visualizations--PowerBI/blob/main/pbi_viz.png)
 
 ## Tools and Technologies
 
