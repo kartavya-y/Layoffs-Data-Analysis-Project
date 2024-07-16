@@ -35,7 +35,7 @@ An analysis of layoffs over time revealed variations in the number of layoffs ac
 
 ### Industry Analysis
 
-The industry analysis highlighted that the `Tech`, `Retail`, and `Finance` sectors experienced the highest total layoffs. Furthermore, the average percentage of layoffs was notably high in the `Tech` and `Startup` industries, indicating significant workforce reductions in these sectors.
+The industry analysis highlighted that the `Tech`, `Retail`, and `Transportation` sectors experienced the highest total layoffs. Furthermore, the average percentage of layoffs was notably high in the `Tech` and `Startup` industries, indicating significant workforce reductions in these sectors.
 
 ### Geographical Analysis
 
@@ -47,7 +47,7 @@ Examining layoffs by company stage revealed that companies at the `Post-IPO` and
 
 ### Top Companies by Layoffs
 
-The top companies with the most significant layoffs included prominent names such as `Company A`, `Company B`, and `Company C`. Additionally, companies like `Company D` and `Company E` had the highest layoff percentages, indicating drastic reductions in their workforce.
+The top companies with the most significant layoffs included prominent names such as `Amazon`, `Meta`, and `Tesla`.
 
 ### Correlation Analysis
 
